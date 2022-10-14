@@ -1,0 +1,11 @@
+__pycache__
+*.py[cod]
+env
+local
+
+# User-specific stuff
+.idea
+
+# Distribution
+dist
+*.egg-info
